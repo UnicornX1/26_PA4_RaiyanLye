@@ -1,0 +1,7 @@
+Unit Testing is when developer tests a component of a program.
+Unit Testing is done by developers.
+Unit Testing is mainly Whitebox Testing.
+
+Integration Testing is when you combine two codes to run.
+Integration testing is done by developers.
+It is both whitebox and blackbox.
