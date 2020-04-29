@@ -5,3 +5,11 @@ Unit Testing is mainly Whitebox Testing.
 Integration Testing is when you combine two codes to run.
 Integration testing is done by developers.
 It is both whitebox and blackbox.
+
+System Testing is execution of the software in its final configuration.
+It is done by developers.
+It is whitebox testing.
+
+Acceptance Testing is to evaluate and validate that system's functionality meets the customer's requirements.
+It is done by customers and end-users.
+It is blackbox testing.
